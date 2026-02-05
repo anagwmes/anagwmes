@@ -1,5 +1,7 @@
 # 👩‍💻 Ana Luiza
+
 **`Desenvolvedora FullStack`**
+
 Me chamo Ana Luiza Santana, tenho 22 anos, sou de São Paulo e formada em Análise e Desenvolvimento de Sistemas. Estou nessa jornada de aprendizado contínuo em tecnologia, explorando o desenvolvimento web e evoluindo um passo de cada vez.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anagwmes_)
