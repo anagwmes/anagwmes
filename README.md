@@ -20,4 +20,10 @@ Me chamo Ana Luiza Santana, tenho 22 anos, sou de São Paulo e formada em Análi
 <img align="left" alt="BOOTSTRAP" title="BOOTSTRAP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="GIT" title="GIT" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
+<br/>
+<br/>
+
+### Estatísticas
+
+<img align="left" alt="GitHub Stats" height="200px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=anagwmes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
