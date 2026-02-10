@@ -26,6 +26,7 @@ Me chamo Ana Luiza Santana, tenho 22 anos, sou de São Paulo e formada em Análi
 ### Estatísticas
 
 <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=anagwmes&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=anagwmes&show_icons=true&theme=tokyonight&cache_seconds=1800
+"/>
 
 
